@@ -23,3 +23,8 @@ DAY 31 FLASH CARDS/
 │   ├── wrong.png                     # Image for the ❌ button
 ├── main.py                           # Main Python script to run the app
 ├── requirements.txt                  # Python dependencies file
+```
+
+## Demo Usage
+https://github.com/user-attachments/assets/3f3ab6f4-5d54-4ef7-88b3-e967cacb60f2
+
